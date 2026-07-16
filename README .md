@@ -1,17 +1,5 @@
 # 📊 Meta Ad Performance Analysis Dashboard
 
-<p align="center">
-
-!\[Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
-!\[DAX](https://img.shields.io/badge/DAX-Measures-blue)
-!\[Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
-!\[Data Modeling](https://img.shields.io/badge/Data-Modeling-orange)
-!\[Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-</p>
-
-\---
-
 ## 🚀 Overview
 
 This repository contains an interactive **Meta Ad Performance Dashboard** built using **Microsoft Power BI**.
